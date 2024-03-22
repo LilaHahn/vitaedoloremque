@@ -1,0 +1,34 @@
+{
+  "name": "vitaedoloremque",
+  "version": "1.0.0",
+  "description": "JavaScript library for reading EXIF image metadata",
+  "main": "exif.js",
+  "directories": {
+    "example": "example"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LilaHahn/vitaedoloremque.git"
+  },
+  "keywords": [
+    "incidunt"
+  ],
+  "author": "VitoCremin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LilaHahn/vitaedoloremque.git/issues"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "spec",
+    "example"
+  ],
+  "devDependencies": {
+    "bower": "^1.4.1",
+    "mversion": "^1.10.0"
+  }
+}
